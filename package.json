@@ -1,0 +1,19 @@
+{
+  "name": "shortenlink",
+  "version": "1.0.0",
+  "description": "tool to shorten a long link and create a short URL",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedBoardDev/shortenLink.git"
+  },
+  "author": "RedBoardDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedBoardDev/shortenLink/issues"
+  },
+  "homepage": "https://github.com/RedBoardDev/shortenLink#readme"
+}
