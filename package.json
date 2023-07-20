@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RedBoardDev/shortenLink/issues"
   },
-  "homepage": "https://github.com/RedBoardDev/shortenLink#readme"
+  "homepage": "https://github.com/RedBoardDev/shortenLink#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
